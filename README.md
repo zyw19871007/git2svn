@@ -1,6 +1,9 @@
 # git2svn
 git to svn git迁移到svn
 当前路径下创建 list.txt 按行存放需要迁移的git项目：组织/库名
+参考连接：
+1 https://blog.csdn.net/zhangskd/article/details/43452627
+2 https://stackoverflow.com/questions/661018/pushing-an-existing-git-repository-to-svn
 
 ################环境配置
 # 需要安装  svn  git  git-svn
