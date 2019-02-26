@@ -16,4 +16,4 @@ git to svn git迁移到svn
 ### svn mkdir --parents ${svn_url}${name}/test -m "Importing git repo ${git_url}${name}" ${svn_login}
 ### 迁移方式两种，默认git id版本方式，如果该方式不成功，则 执行脚本 ./git2svn.sh rebase 使用git rebase方式,rebase方式可能需要手动处理冲突
 ### 更换迁移方式：需要先将本脚本之前下载的相关本地git仓库删除
-#####################配置修改############################
+### 可能还要配置： git global email 和username
