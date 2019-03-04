@@ -5,6 +5,10 @@ git to svn git迁移到svn
 * https://blog.csdn.net/zhangskd/article/details/43452627
 * https://stackoverflow.com/questions/661018/pushing-an-existing-git-repository-to-svn
 
+# 版本2.x
+  换了个方案，该方案可以设置需要保留的历史记录条数
+  
+# 版本1.x
 ################环境配置
 # 需要安装  svn  git  git-svn
 ################
